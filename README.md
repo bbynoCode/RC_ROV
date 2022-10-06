@@ -1,7 +1,7 @@
 # RC_ROV
 Notes and files related to RC ROV project
 
-###PVC based ($)
+### PVC based ($)
 https://www.youtube.com/watch?v=YDM7Ezb_vN0
 PVC DIY Sub Build
 
